@@ -1,5 +1,6 @@
 # EZBucket Command & Permission HELP
 ### Join my [Discord](https://discordapp.com/invite/6Xqhute) if you need assistance or pm me on [Spigot](https://www.spigotmc.org/members/currynrice_.96751/)
+### Aliases gb, gen, genbuckets, genbucket, ezbucket, genshop
 
 
 Command | Permission | Description
@@ -11,4 +12,6 @@ Command | Permission | Description
 /ezbucket cp | genbucket.controlpanel | Opens the rich controlpanel
 /ezbucket reload | genbucket.reload | *Reloads the configuration files (*wont reload everything)
 /ezbucket give <player> <bucket> <amount> | genbucket.give | Give a player x amount of gens (use % or _ for space between names)
+/ezbucket message | no permission needed | Toggle message notifier
 /ezbucket types | genbucket.types | Returns all gens you're currently using
+Place sign | genbucket.placesign | Place an ezbucket sign
