@@ -11,7 +11,7 @@ Command | Permission | Description
 /ezbucket trait | genbucket.trait | Returns a list of all traits
 /ezbucket cp | genbucket.controlpanel | Opens the rich controlpanel
 /ezbucket reload | genbucket.reload | *Reloads the configuration files (*wont reload everything)
-/ezbucket give <player> <bucket> <amount> | genbucket.give | Give a player x amount of gens (use % or _ for space between names)
+/ezbucket give <player> <bucket> <amount> | genbucket.give | Make sure you enter the full name of the genbucket. Even the special characters if you have those!
 /ezbucket message | no permission needed | Toggle message notifier
 /ezbucket types | genbucket.types | Returns all gens you're currently using
 Place sign | genbucket.placesign | Place an ezbucket sign
